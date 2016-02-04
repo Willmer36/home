@@ -1,0 +1,49 @@
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/tabs.css");
+@import url("components/navbar.css");
+
+
+body {
+  margin: 0;
+  margin-bottom: 100px;
+  font-family: Open-sans, sans-serif;
+  background-color: #6F9699;
+  color: white;
+}
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+.text-center {
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+h1 {
+  font-family: pacifico;
+}
+
+.card-title {
+  font-family: pacifico;
+}
+
+.hfont {
+  font-family: pacifico;
+  font-size: 32px;
+
+}

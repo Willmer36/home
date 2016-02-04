@@ -1,0 +1,16 @@
+
+
+.btn-yours {
+  color: #ff847c;
+  font-weight: bold;
+  border-radius: 60%;
+  background: #2a363b;
+  padding: 10px 15px;
+  border: 3px;
+  transition: background 0.3s ease;
+}
+
+.btn-yours:hover {
+  background: #fecea8;
+  opacity: 2;
+}
